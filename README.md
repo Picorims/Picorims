@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 # Tech
 
 [![My Skills](https://skills.syvixor.com/api/icons?i=ts,svelte,tauri,react,html,css,rust,godot,blender,postgresql,python,cpp,md,penpot,bluesky,mastodon,lumo&perline=6)](https://skillicons.dev)
+
+# Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=picorims&show_icons=true&theme=gotham)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=picorims&hide=javascript,html,C&layout=donut&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
