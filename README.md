@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋
+
+I'm Picorims, a fullstack engineer. I maintain open source stuff, and from time to time write some music.
 
 <!--
 **Picorims/Picorims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Tech
+
+[![My Skills](https://skills.syvixor.com/api/icons?i=ts,svelte,tauri,react,html,css,rust,godot,blender,postgresql,python,cpp,md,penpot,bluesky,mastodon,lumo&perline=6)](https://skillicons.dev)
