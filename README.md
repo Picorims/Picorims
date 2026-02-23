@@ -1,6 +1,8 @@
-## Hi 👋
+# Hi 👋
 
 I'm Picorims, a fullstack engineer. I maintain open source stuff, and from time to time write some music.
+
+# [Donate](https://framaforms.org/would-you-donate-1771697595)
 
 <!--
 **Picorims/Picorims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
